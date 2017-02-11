@@ -7,6 +7,9 @@
 	</head>
 	<body>
 
+		<p id="demo"></p>
+		<script src="myscript.js"></script>
+		
 		<?php
 		echo 'Current PHP version: ' . phpversion();
 		echo phpversion()
