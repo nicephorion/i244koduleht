@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: SeaGreen;
+}
+h2, #peaminePealkiri{
+	color: OliveDrab;
+}
+div, #esimeneDiv {
+	max-width: 1000px;
+	min-width: 600px;	
+	margin: auto;
+	background: MediumAquamarine;
+}
+#sisu{
+	background: white;
+	padding: 10px;
+	text-align: justify;
+}
+#menu {
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+}
+li, #menu {
+	display: inline-block;
+	padding: 5px;
+}
+#menu a{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-weight: bolder;
+}
+#menu a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+#pilt {
+	padding: 10px;
+	border: 2px solid black;
+}
+#sisutekst {
+	
+}
